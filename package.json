@@ -1,0 +1,41 @@
+{
+  "name": "vuegear",
+  "version": "0.0.1",
+  "author": {
+    "name": "Huangyan9188"
+  },
+  "keywords":[
+  "vue",
+  "component",
+  "webpack"
+  ],
+  "description": "Is the development tool for frontend developers using vue.js",
+  "dependencies": {
+    "split":"*"
+    },
+  "license": "MIT",
+  "devDependencies": {
+   
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyan9188/vuegear.git"
+  },
+  "homepage": "https://github.com/huangyan9188/vuegear",
+  "bin": {
+    "vuegear": "./bin/vuegear.js"
+  },
+  "gitHead": "89fda6a575eb379d974a30a5229d74c77ba35cc5",
+  "bugs": {
+    "url": "https://github.com/huangyan9188/vuegear/issues"
+  },
+  "maintainers": [
+    {
+      "name": "huangyan9188",
+      "email": "huangyan9188@gmail.com"
+    }
+  ]
+}
